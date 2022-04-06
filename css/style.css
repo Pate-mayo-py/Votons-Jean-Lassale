@@ -1,0 +1,132 @@
+/*
+general
+*/
+
+body{
+    margin: 0px auto;
+}
+
+section{
+    background-size: 100%;
+    background-position-y: -50px;
+    height: 610px;
+}
+
+/*
+top page
+*/
+
+section.top-page{
+    background-image: url("https://troisheuresmoinslequart.com/wp-content/uploads/2020/09/Jean-Lassalle.png");
+}
+
+div{
+    padding-top: 100px;
+    padding-left: 10px;
+    color: #fff;
+}
+
+h1.title, p.citation{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+h1.title{
+    font-size: 70px;
+}
+
+p.citation{
+    font-size: 20px;
+}
+
+
+/*
+paquito
+*/
+
+section.paquito{
+    background-image: url("https://s.france24.com/media/display/ba452f90-0f37-11e9-b80f-005056a964fe/w:1280/p:16x9/7580e7cc728b4022c91aab316d2627fa.jpg");
+}
+
+section.paquito div{
+    padding-top: 250px;
+}
+
+/*
+love
+*/
+
+section.love{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.sudouest.fr%2F2360621%2F1000x500%2Fso-5e0b4f2e66a4bdf30b79ab55-ph0.jpg&f=1&nofb=1");
+    background-position-y: 0px;
+}
+
+section.love div{
+    padding-top: 250px;
+}
+
+/*
+copains
+*/
+
+section.copains{
+    background-image: url("https://i.ytimg.com/vi/Ik2U1Fdr-gk/maxresdefault.jpg");
+}
+
+section.copains div{
+    padding-top: 250px;
+}
+
+/*
+votons pour lui
+*/
+
+section.votons-pour-lui{
+    background-image: url("https://images.lindependant.fr/api/v1/images/view/624c927f15df6103f1214a64/large/image.jpg?v=1");
+}
+
+section.votons-pour-lui div{
+    padding-top: 250px;
+}
+
+/*
+paquito geant
+*/
+
+section.paquito-geant{
+    background-image: url("https://blogdoferoli.com/wp-content/uploads/2021/02/Reforma-da-Champs-Elysees-destaque.jpg");
+}
+
+section.paquito-geant div{
+    padding-top: 250px;
+}
+
+/*
+besoin de vous
+*/
+
+section.besoin-de-vous{
+    background-image: url("https://file1.closermag.fr/var/closermag/storage/images/1/2/5/8/1/12581185/lorsque-jean-lassalle-antoine-caunes-coupent-bois.png?alias=exact1024x768_l");
+    background-position-y: -250px;
+}
+
+section.besoin-de-vous div{
+    padding-top: 250px;
+}
+
+/*
+votons jean lassalle
+*/
+
+section.votons-jean-lassalle{
+    background-image: url("https://www.publicsenat.fr/sites/default/files/styles/pse_contenu_entete_16_9/public/thumbnails/image/715f0604eb07b5c239790fa755c596be33439b28.jpg?itok=mnNw9wrS")
+}
+
+section.votons-jean-lassalle div{
+    padding-top: 250px;
+}
+
+div.votons-jean-lassalle p{
+    font-size: 50px;
+}
