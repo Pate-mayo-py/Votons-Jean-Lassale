@@ -17,7 +17,7 @@ top page
 */
 
 section.top-page{
-    background-image: url("https://troisheuresmoinslequart.com/wp-content/uploads/2020/09/Jean-Lassalle.png");
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FDqvzYzquj813i%2Fgiphy.gif&f=1&nofb=1");
 }
 
 div{
@@ -46,7 +46,7 @@ paquito
 */
 
 section.paquito{
-    background-image: url("https://s.france24.com/media/display/ba452f90-0f37-11e9-b80f-005056a964fe/w:1280/p:16x9/7580e7cc728b4022c91aab316d2627fa.jpg");
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2F6vdKiBjUZ2LKw%2F200.gif%3Fcid%3D790b76116e24t3kqtvmvfej2jydrdeqo7t4x0fmpmr47misx%26rid%3D200.gif%26ct%3Dg&f=1&nofb=1");
 }
 
 section.paquito div{
@@ -58,8 +58,9 @@ love
 */
 
 section.love{
-    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.sudouest.fr%2F2360621%2F1000x500%2Fso-5e0b4f2e66a4bdf30b79ab55-ph0.jpg&f=1&nofb=1");
-    background-position-y: 0px;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F14nq1vY7PUdx04%2Fgiphy.gif&f=1&nofb=1");
+    background-size: 110%;
+    background-position-y: -110px;
 }
 
 section.love div{
@@ -83,7 +84,7 @@ votons pour lui
 */
 
 section.votons-pour-lui{
-    background-image: url("https://images.lindependant.fr/api/v1/images/view/624c927f15df6103f1214a64/large/image.jpg?v=1");
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FUR3yeRxw6qf60%2F200.gif%3Fcid%3D790b7611d0c43510cb8335c1fc2daf3d5064ee1ed6f8e1ea%26rid%3D200.gif%26ct%3Dg&f=1&nofb=1");
 }
 
 section.votons-pour-lui div{
@@ -95,7 +96,7 @@ paquito geant
 */
 
 section.paquito-geant{
-    background-image: url("https://blogdoferoli.com/wp-content/uploads/2021/02/Reforma-da-Champs-Elysees-destaque.jpg");
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F31.media.tumblr.com%2Ftumblr_m74m3miYmp1qedb29o1_500.gif&f=1&nofb=1");
 }
 
 section.paquito-geant div{
@@ -120,7 +121,9 @@ votons jean lassalle
 */
 
 section.votons-jean-lassalle{
-    background-image: url("https://www.publicsenat.fr/sites/default/files/styles/pse_contenu_entete_16_9/public/thumbnails/image/715f0604eb07b5c239790fa755c596be33439b28.jpg?itok=mnNw9wrS")
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FudxJPMt4mEuUo%2Fsource.gif&f=1&nofb=1");
+    background-size: 110%;
+    background-position: 0px;
 }
 
 section.votons-jean-lassalle div{
@@ -130,3 +133,4 @@ section.votons-jean-lassalle div{
 div.votons-jean-lassalle p{
     font-size: 50px;
 }
+
